@@ -1,0 +1,15 @@
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/bin/Debug/net6.0/SampleOperator
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/bin/Debug/net6.0/SampleOperator.deps.json
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/bin/Debug/net6.0/SampleOperator.runtimeconfig.json
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/bin/Debug/net6.0/SampleOperator.dll
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/bin/Debug/net6.0/SampleOperator.pdb
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/SampleOperator.csproj.AssemblyReference.cache
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/SampleOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/SampleOperator.AssemblyInfoInputs.cache
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/SampleOperator.AssemblyInfo.cs
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/SampleOperator.csproj.CoreCompileInputs.cache
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/SampleOperator.dll
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/refint/SampleOperator.dll
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/SampleOperator.pdb
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/SampleOperator.genruntimeconfig.cache
+/Users/mostafaabbasisani/Projects/SampleOperator/SampleOperator/obj/Debug/net6.0/ref/SampleOperator.dll
